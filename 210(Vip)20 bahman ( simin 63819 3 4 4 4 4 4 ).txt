@@ -1,5 +1,0 @@
-vless://e794da45-0d8d-4b7a-9ae9-b0b84528b360@172.67.128.212:443?path=%2F&security=tls&encryption=none&host=hexaprop.dirih76753.workers.dev&type=ws&sni=hexaprop.dirih76753.workers.dev#100
-
-vless://cd63bacc-fb9c-492a-af22-daf2623305b6@104.21.75.15:8443?path=vless-ws%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h2,http/1.1&host=parmo.gakibe3356.workers.dev&fp=ios&type=ws&sni=parmo.gakibe3356.workers.dev#102
-
-vless://b4674ee8-dc13-413d-8488-f991a0dea413@172.67.143.41:2083?path=vless-ws%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h2,http/1.1&host=yryreye.doiloe.WOrKERS.DEv&fp=edge&type=ws&sni=yryreye.doiloe.WOrKERS.DEv#103
