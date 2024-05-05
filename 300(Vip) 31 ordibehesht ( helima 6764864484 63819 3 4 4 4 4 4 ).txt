@@ -108,3 +108,13 @@ vless://90887cc1-fa87-4bbf-9acb-d4bfffa61805@education.samanmoney.com:2052?path=
 
 
 vless://90887cc1-fa87-4bbf-9acb-d4bfffa61805@dashboard.samanmoney.com:2052?path=%2F&security=none&encryption=none&host=446e51065f80f2c5.cDn.V2ray.SaMaNmOnEy.com&type=ws#%F0%9F%87%A9%F0%9F%87%AA+%28Esmail_a20%29--S36
+
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6QnN3aFhMdzF0X09OWW9hV05DaVBB@tunnel.donekaftr.ir:2602#%F0%9F%9F%A3%F0%9F%87%A9%F0%9F%87%AA+%28Esmail_a20%29--S37
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6QnN3aFhMdzF0X09OWW9hV05DaVBB@tunnel.donekaftr.ir:2601#%F0%9F%9F%A3%F0%9F%87%A9%F0%9F%87%AA+%28Esmail_a20%29--S38
+
+vless://7bbc7b6c-83d2-4a54-8316-b12900c2b977@blurez.donekaftr.ir:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&authority=&fp=ios&type=grpc&serviceName=abc&sni=gr.donekaftr.ir#%F0%9F%9F%A3%F0%9F%87%A9%F0%9F%87%AA+%28Esmail_a20%29--S39
+
+
+vless://7bbc7b6c-83d2-4a54-8316-b12900c2b977@blurez.donekaftr.ir:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&authority=&fp=ios&type=grpc&serviceName=abc&sni=t.donekaftr.ir#%F0%9F%9F%A3%F0%9F%87%A9%F0%9F%87%AA+%28Esmail_a20%29--S40
