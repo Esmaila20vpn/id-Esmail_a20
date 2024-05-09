@@ -1,5 +1,7 @@
 vmess://eyJhZGQiOiIwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImVlYzI2NWQyLTE0NWItNGYxYS05OWZhLWZhYWY1ODBjN2Y4YyIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiODg4OCIsInBzIjoi2qnYp9mG2YHbjNmG2q8g2YfYp9uMINmG2KfZhdit2K/ZiNivIFZpcCDYotmF2YjYsti0INmH2KfbjCDZhdix2KjZiNi32Ycg2LHYpyDYqNio24zZhtuM2K8g2LPZvtizINmF2KrYtdmEINio2LTbjNivIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWTGp4RU9XWW42YlhUNEFQajkta1dR@tunnel.bluhearts.com:2612#%F0%9F%9F%A3%F0%9F%87%A9%F0%9F%87%AA+%28Esmail_a20%29--S100
+
 vless://d59fc905-8496-4faf-8147-8625788b4d4e@217.114.217.118:25944?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA+%28Esmail_a20%29--S1
 
 
