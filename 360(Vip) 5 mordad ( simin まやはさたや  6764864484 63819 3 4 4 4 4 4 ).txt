@@ -86,3 +86,5 @@ vless://5faee3be-6b8f-4f26-8a28-26db219860c4@185.146.173.96:2053?path=%2F%40Mmd_
 vless://5faee3be-6b8f-4f26-8a28-26db219860c4@python.samanmoney.com:8443?mode=gun&security=tls&encryption=none&authority=&type=grpc&serviceName=&sni=cloidshoping-apibot.dreamlighttolife.infO.#%F0%9F%87%A9%F0%9F%87%AA+%28%40Esmail_a20%29--W32
 vless://5faee3be-6b8f-4f26-8a28-26db219860c4@zula.ir:8443?mode=gun&security=tls&encryption=none&authority=&type=grpc&serviceName=&sni=server.dreamlighttolife.info.#%F0%9F%87%A9%F0%9F%87%AA+%28%40Esmail_a20%29--W33
 
+vless://1e44bd72-6817-4213-acd4-deff85209446@217.114.212.16:23979?security=none&encryption=none&seed=iq6sSK1d1i&headerType=none&type=kcp#%F0%9F%87%A9%F0%9F%87%AA+%28Esmail_a20%29--+1000++%D9%85%D8%AA%D8%B5%D9%84
+vless://7b47477f-bbf4-4621-88a4-ad81e63edefe@217.114.212.16:19081?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA+%28Esmail_a20%29--+1001+++%D9%85%D8%AA%D8%B5%D9%84
