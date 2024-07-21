@@ -86,3 +86,5 @@ vless://5faee3be-6b8f-4f26-8a28-26db219860c4@185.146.173.96:2053?path=%2F%40Mmd_
 vless://5faee3be-6b8f-4f26-8a28-26db219860c4@185.146.173.96:2053?path=%2F%40Mmd_V2rayng-%40LookiVpn%3Fed%3D1024&security=tls&encryption=none&alpn=h2,http/1.1&host=dashboardc.lighttolife.net&fp=chrome&type=ws&sni=dashboardc.lighttolife.net#%F0%9F%87%A9%F0%9F%87%AA+%28%40Esmail_a20%29--W31
 vless://5faee3be-6b8f-4f26-8a28-26db219860c4@python.samanmoney.com:8443?mode=gun&security=tls&encryption=none&authority=&type=grpc&serviceName=&sni=cloidshoping-apibot.dreamlighttolife.infO.#%F0%9F%87%A9%F0%9F%87%AA+%28%40Esmail_a20%29--W32
 vless://5faee3be-6b8f-4f26-8a28-26db219860c4@zula.ir:8443?mode=gun&security=tls&encryption=none&authority=&type=grpc&serviceName=&sni=server.dreamlighttolife.info.#%F0%9F%87%A9%F0%9F%87%AA+%28%40Esmail_a20%29--W33
+
+vless://1a53381a-2f8a-4c0c-ac8a-53c2b7e2bad0@rez.bluhearts.com:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&authority=&fp=ios&type=grpc&serviceName=abc&sni=t4.bluhearts.com#%F0%9F%87%A9%F0%9F%87%AA+%28%40Esmail_a20%29--W34
