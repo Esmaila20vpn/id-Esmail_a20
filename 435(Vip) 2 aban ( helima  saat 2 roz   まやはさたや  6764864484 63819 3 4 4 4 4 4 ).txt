@@ -104,3 +104,14 @@ vmess://eyJhZGQiOiI3MC4zNC4yMTkuNDAiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9z
 
 
 vless://f210bcb6-1677-4b61-8234-ea8f220b3ed0@70.34.219.40:51451?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#%F0%9F%87%A9%F0%9F%87%AA%28%40Esmail_a20%29--D32
+
+
+
+
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzanhrLXNKTWpGSHZRaV9YSkYzVW5n@tunnel4.bluhearts.com:2614#%F0%9F%87%A9%F0%9F%87%AA%28%40Esmail_a20%29--D33
+
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzanhrLXNKTWpGSHZRaV9YSkYzVW5n@tunnel1.bluhearts.com:2611#%F0%9F%87%A9%F0%9F%87%AA%28%40Esmail_a20%29--D34
+
+
