@@ -1,4 +1,0 @@
-vless://eade047f-ba68-4268-8cb9-d06d813f250b@209.250.236.167:39046?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA+%28%40Esmail_a20%29--G1
-
-
-vless://2c5fb7a7-ecdc-4066-80df-911f7d07504f@209.250.236.167:31892?security=none&encryption=none&seed=Ldi3HUUBw0&headerType=none&type=kcp#%F0%9F%87%A9%F0%9F%87%AA+%28%40Esmail_a20%29--G2
