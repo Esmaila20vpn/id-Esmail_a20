@@ -1,20 +1,4 @@
-vless://0de43190-ce96-5e8b-b278-e6a72f9fe9f4@185.143.233.5:443?path=%2F&security=tls&encryption=none&host=far30tm.de1.atsgolden.com&fp=chrome&type=ws&sni=far30tm.de1.atsgolden.com#%F0%9F%9F%A3%20%28%40Esmail_a20%29%20GE%20%7C%20NB
 
-vless://0de43190-ce96-5e8b-b278-e6a72f9fe9f4@185.143.233.5:443?path=%2F&security=tls&encryption=none&host=far30tm.nl1.atsgolden.com&fp=safari&type=ws&sni=far30tm.nl1.atsgolden.com#%F0%9F%9F%A3%20%28%40Esmail_a20%29%20NL%20%7C%20NB
-
-vless://0de43190-ce96-5e8b-b278-e6a72f9fe9f4@185.143.233.120:443?path=%2F&security=tls&encryption=none&host=far30tm.sw1.atsgolden.com&fp=safari&type=ws&sni=far30tm.sw1.atsgolden.com#%F0%9F%9F%A3%20%28%40Esmail_a20%29%20UK%20%7C%20NB
-
-vless://0de43190-ce96-5e8b-b278-e6a72f9fe9f4@185.143.233.5:443?path=%2F&security=tls&encryption=none&host=far30tm.usa1.atsgolden.com&fp=safari&type=ws&sni=far30tm.usa1.atsgolden.com#%F0%9F%9F%A3%20%28%40Esmail_a20%29%20US%20%7C%20NBW
-
-vless://0de43190-ce96-5e8b-b278-e6a72f9fe9f4@185.143.233.5:443?path=%2F&security=tls&encryption=none&host=far30tm.tr1.atsgolden.com&fp=safari&type=ws&sni=far30tm.tr1.atsgolden.com#%F0%9F%9F%A3%20%28%40Esmail_a20%29%20TR%20%7C%20NB
-
-vless://0de43190-ce96-5e8b-b278-e6a72f9fe9f4@185.143.233.5:443?path=%2F&security=tls&encryption=none&host=arvfar30tm.fr1.atsgolden.com&fp=safari&type=ws&sni=arvfar30tm.fr1.atsgolden.com#%F0%9F%9F%A3%20%28%40Esmail_a20%29%20FR%20%7C%20NB
-
-vless://0de43190-ce96-5e8b-b278-e6a72f9fe9f4@arv2.njqwyahflacm.vipprimeservice.com:8443?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%9F%A3%20%28%40Esmail_a20%29%20TR%20%7C%20TB
-
-
-
-vless://d60e44f9-99fa-45e5-a6e8-e95631ce3e2b@username.com:6162?security=none&encryption=none&headerType=none&type=tcp#%D8%B3%D8%B1%D9%88%D8%B1%20%D8%AC%D8%AF%DB%8C%D8%AF%20%F0%9F%91%87%F0%9F%91%87%F0%9F%91%87%F0%9F%91%87%F0%9F%91%87
 
 
 vless://db4022cc-f43c-5366-961d-e9b6465ea3ba@185.143.233.5:443?path=%2F&security=tls&encryption=none&host=far30tm.de1.atsgolden.com&fp=chrome&type=ws&sni=far30tm.de1.atsgolden.com#%F0%9F%9F%A3%20%28%40Esmail_a20%29%20GE%20%7C%20NB
