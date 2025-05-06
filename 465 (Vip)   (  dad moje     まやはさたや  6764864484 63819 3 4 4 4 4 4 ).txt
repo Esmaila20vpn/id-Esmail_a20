@@ -1,18 +1,25 @@
 
-vless://36703046-1e03-1790-88a2-d722fbde10d8@192.168.0.0:8888?security=none&encryption=none&headerType=none&type=tcp#%D8%B4%D8%B1%D9%88%D8%B9%20%D8%B3%D8%B1%D9%88%DB%8C%D8%B3%20%3A%201404%2C1%2C15%20%F0%9F%91%87%F0%9F%91%87%F0%9F%91%87
+vless://36703046-1e03-1790-88a2-d722fbde10d8@192.168.0.0:8888?security=none&encryption=none&headerType=none&type=tcp#%D8%B4%D8%B1%D9%88%D8%B9%20%D8%B3%D8%B1%D9%88%DB%8C%D8%B3%20%3A%201404%2C2%2C16%20%F0%9F%91%87%F0%9F%91%87%F0%9F%91%87
+
+vless://aeb71d58-6aff-5811-ab51-f85bdc1aaa50@185.143.233.5:443?path=%2F&security=tls&encryption=none&host=far30tm.fl1.atsgolden.com&fp=safari&type=ws&sni=far30tm.fl1.atsgolden.com#%F0%9F%87%AB%F0%9F%87%AE%F0%9F%9F%A3%20%28%40Esmail_a20%29%20FL%20%7C%20NB
 
 
+vless://aeb71d58-6aff-5811-ab51-f85bdc1aaa50@185.143.233.5:443?path=%2F&security=tls&encryption=none&host=far30tm.de1.atsgolden.com&fp=chrome&type=ws&sni=far30tm.de1.atsgolden.com#%F0%9F%87%A9%F0%9F%87%AA%F0%9F%9F%A3%20%28%40Esmail_a20%29%20GE%20%7C%20NB
 
-vless://ba4f6704-0f42-537c-a4a1-aa10a6fd1502@185.143.233.5:443?path=%2F&security=tls&encryption=none&host=far30tm.de1.atsgolden.com&fp=chrome&type=ws&sni=far30tm.de1.atsgolden.com#%F0%9F%9F%A3%20%28%40Esmail_a20%29%20GE%20%7C%20NB
 
-vless://ba4f6704-0f42-537c-a4a1-aa10a6fd1502@185.143.233.5:443?path=%2F&security=tls&encryption=none&host=far30tm.nl1.atsgolden.com&fp=safari&type=ws&sni=far30tm.nl1.atsgolden.com#%F0%9F%9F%A3%20%28%40Esmail_a20%29%20NL%20%7C%20NB
+vless://aeb71d58-6aff-5811-ab51-f85bdc1aaa50@185.143.233.120:443?path=%2F&security=tls&encryption=none&host=far30tm.sw1.atsgolden.com&fp=safari&type=ws&sni=far30tm.sw1.atsgolden.com#%F0%9F%87%AC%F0%9F%87%A7%F0%9F%9F%A3%20%28%40Esmail_a20%29%20UK%20%7C%20NB
 
-vless://ba4f6704-0f42-537c-a4a1-aa10a6fd1502@185.143.233.120:443?path=%2F&security=tls&encryption=none&host=far30tm.sw1.atsgolden.com&fp=safari&type=ws&sni=far30tm.sw1.atsgolden.com#%F0%9F%9F%A3%20%28%40Esmail_a20%29%20UK%20%7C%20NB
 
-vless://ba4f6704-0f42-537c-a4a1-aa10a6fd1502@185.143.233.5:443?path=%2F&security=tls&encryption=none&host=far30tm.usa1.atsgolden.com&fp=safari&type=ws&sni=far30tm.usa1.atsgolden.com#%F0%9F%9F%A3%20%28%40Esmail_a20%29%20US%20%7C%20NBW
+vless://aeb71d58-6aff-5811-ab51-f85bdc1aaa50@185.143.233.5:443?path=%2F&security=tls&encryption=none&host=far30tm.usa1.atsgolden.com&fp=safari&type=ws&sni=far30tm.usa1.atsgolden.com#%F0%9F%87%BA%F0%9F%87%B8%F0%9F%9F%A3%20%28%40Esmail_a20%29%20US%20%7C%20NBW
 
-vless://ba4f6704-0f42-537c-a4a1-aa10a6fd1502@185.143.233.5:443?path=%2F&security=tls&encryption=none&host=far30tm.tr1.atsgolden.com&fp=safari&type=ws&sni=far30tm.tr1.atsgolden.com#%F0%9F%9F%A3%20%28%40Esmail_a20%29%20TR%20%7C%20NB
 
-vless://ba4f6704-0f42-537c-a4a1-aa10a6fd1502@185.143.233.5:443?path=%2F&security=tls&encryption=none&host=arvfar30tm.fr1.atsgolden.com&fp=safari&type=ws&sni=arvfar30tm.fr1.atsgolden.com#%F0%9F%9F%A3%20%28%40Esmail_a20%29%20FR%20%7C%20NB
+vless://aeb71d58-6aff-5811-ab51-f85bdc1aaa50@185.143.233.5:443?path=%2F&security=tls&encryption=none&host=far30tm.tr1.atsgolden.com&fp=safari&type=ws&sni=far30tm.tr1.atsgolden.com#%F0%9F%87%B9%F0%9F%87%B7%F0%9F%9F%A3%20%28%40Esmail_a20%29%20TR%20%7C%20NB
 
-vless://ba4f6704-0f42-537c-a4a1-aa10a6fd1502@arv2.njqwyahflacm.vipprimeservice.com:8443?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%9F%A3%20%28%40Esmail_a20%29%20TR%20%7C%20TB
+
+vless://aeb71d58-6aff-5811-ab51-f85bdc1aaa50@185.143.233.5:443?path=%2F&security=tls&encryption=none&host=arvfar30tm.fr1.atsgolden.com&fp=safari&type=ws&sni=anten.ir#%F0%9F%87%A6%F0%9F%87%B2%F0%9F%9F%A3%20%28%40Esmail_a20%29%20AR%20%7C%20NB
+
+
+vless://aeb71d58-6aff-5811-ab51-f85bdc1aaa50@tun-1.tel-far30tm.click:2083?security=none&encryption=none&host=anten.ir&headerType=http&type=tcp#%F0%9F%87%AB%F0%9F%87%AE%F0%9F%9F%A3%20%28%40Esmail_a20%29%20FL%20%7C%20TB
+
+
+vless://aeb71d58-6aff-5811-ab51-f85bdc1aaa50@tun-1.tel-far30tm.click:2087?security=none&encryption=none&host=uptvs.com&headerType=http&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%F0%9F%9F%A3%20%28%40Esmail_a20%29%20UK%20%7C%20TB
