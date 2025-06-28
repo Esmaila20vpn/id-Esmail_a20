@@ -1,3 +1,5 @@
-vless://11d4c486-a083-466e-9129-21a56d5a6989@lovetea.portalamozesh.ir:1286?security=none&type=tcp&headerType=http&path=%2F&host=speedtest.net#%F0%9F%87%A9%F0%9F%87%AAGR-mili
 
-vless://11d4c486-a083-466e-9129-21a56d5a6989@www.speedtest.net:2095?security=none&type=httpupgrade&headerType=&path=%2F%3Fed%3D2052&host=l%E4%BD%A0%E5%A5%BD%E5%90%97%E4%BD%A0%E5%A5%BD%E5%90%97cotea152%E4%BD%A0%E5%A5%BD%E5%90%97lou%E4%BD%A0%E5%A5%BD%E5%90%97%E4%BD%A0%E5%A5%BD%E5%90%97a152rtkldcloud.portalamozesh.ir#%F0%9F%87%A9%F0%9F%87%AAGR-wifi
+
+vless://11d4c486-a083-466e-9129-21a56d5a6989@lovetea.portalamozesh.ir:1286?security=none&type=tcp&headerType=http&path=%2F&host=speedtest.net#%F0%9F%87%A9%F0%9F%87%AA%20%20%F0%9D%90%AC%F0%9D%90%AE%F0%9D%90%A9%F0%9D%90%9E%F0%9D%90%AB%20%F0%9D%90%9F%F0%9D%90%9A%F0%9D%90%AC%F0%9D%90%AD%F0%9D%90%B1%F0%9D%9F%90%20%F0%9F%87%AE%F0%9F%87%B7
+
+vless://11d4c486-a083-466e-9129-21a56d5a6989@lovetea12.portalamozesh.ir:4545?security=reality&type=tcp&headerType=&path=%2F%3Fed%3D2048&host=&sni=www.stackoverflow.com&fp=chrome&pbk=UUos2IocZF8CyV6SZyCZmI2tR7s6EviCFd7QtqF9W3c&sid=5051e91ecbab4934#%F0%9F%87%A9%F0%9F%87%AA%20irancell%20%F0%9F%87%A9%F0%9F%87%AA
