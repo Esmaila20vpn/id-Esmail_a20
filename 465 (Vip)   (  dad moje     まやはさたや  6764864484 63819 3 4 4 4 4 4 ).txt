@@ -1,4 +1,4 @@
-vless://62833b05-0b50-4429-81b0-18d4d7384252@0.0.0.0:7052?security=none&type=ws&headerType=&path=&host=#%F0%9F%92%AB%20mogedad%20%7C%20%E2%8F%B3%2031%20days%20%7C%20%F0%9F%93%8A%200%20B%20/%2050.0%20GB
+
 
 vless://62833b05-0b50-4429-81b0-18d4d7384252@tngrns.vertalist.ir:9090?security=none&type=tcp&headerType=http&path=%2F&host=use.fontawesome.com#%F0%9F%92%AB%20GR1%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%7C%20%D9%87%D9%85%D9%87%20%D9%86%D8%AA%20%D9%87%D8%A7
 
