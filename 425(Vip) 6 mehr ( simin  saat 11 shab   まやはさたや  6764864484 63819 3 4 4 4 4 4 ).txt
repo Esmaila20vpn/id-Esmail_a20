@@ -7,64 +7,29 @@ vmess://eyJhZGQiOiJNciBARXNtYWlsX2EyMCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJo
 
 
 
-vless://62e6b7de-95dd-4f79-ba37-ced98af5744f@a6667135d166c7d2.RaVeNlO.iR:1310?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%E2%94%8B%40Esmail_a20%E2%94%8B%20%E2%80%A2%20H1
 
 
-vless://62e6b7de-95dd-4f79-ba37-ced98af5744f@216721aaf1ffafca.B1DoWNlOAd.iR:1310?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%E2%94%8B%40Esmail_a20%E2%94%8B%20%E2%80%A2%20H2
 
 
-vless://62e6b7de-95dd-4f79-ba37-ced98af5744f@grns1.RaVeNlO.iR:1310?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%E2%94%8B%40Esmail_a20%E2%94%8B%20%E2%80%A2%20H3
 
-
-vless://62e6b7de-95dd-4f79-ba37-ced98af5744f@nlns1.B1DoWNlOAd.iR:1310?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%E2%94%8B%40Esmail_a20%E2%94%8B%20%E2%80%A2%20H4
-
-
-vless://62e6b7de-95dd-4f79-ba37-ced98af5744f@86e0b6415fe6458a.iRoNlY4l.iR:1310?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%E2%94%8B%40Esmail_a20%E2%94%8B%20%E2%80%A2%20H5
-
-
-vless://62e6b7de-95dd-4f79-ba37-ced98af5744f@usns1.HEleXv.Ir:1310?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%E2%94%8B%40Esmail_a20%E2%94%8B%20%E2%80%A2%20H6
-
-
-vless://62e6b7de-95dd-4f79-ba37-ced98af5744f@psc-1.zdshop.ir:443?mode=auto&security=tls&encryption=none&insecure=0&type=xhttp&allowInsecure=0&sni=cc48bf542b2f9337.bidacom.ir#%F0%9F%87%A9%F0%9F%87%AA%E2%94%8B%40Esmail_a20%E2%94%8B%20%E2%80%A2%20H7
-
-
-vless://62e6b7de-95dd-4f79-ba37-ced98af5744f@psc-1.zdshop.ir:443?mode=auto&security=tls&encryption=none&insecure=0&type=xhttp&allowInsecure=0&sni=cc71c8f8fdddf83c.VIDaSuNiVErSIty.Ir#%F0%9F%87%AB%F0%9F%87%AE%E2%94%8B%40Esmail_a20%E2%94%8B%20%E2%80%A2%20H8
-
-
-vless://62e6b7de-95dd-4f79-ba37-ced98af5744f@psc-1.zdshop.ir:443?mode=auto&security=tls&encryption=none&insecure=0&type=xhttp&allowInsecure=0&sni=f041d12746357efe.sayashops.ir#%F0%9F%87%AC%F0%9F%87%A7%E2%94%8B%40Esmail_a20%E2%94%8B%20%E2%80%A2%20H9
-
-
-vless://62e6b7de-95dd-4f79-ba37-ced98af5744f@psc-2.zdshop.ir:443?mode=auto&security=tls&encryption=none&insecure=0&type=xhttp&allowInsecure=0&sni=c0b178e81169a183.bidacom.ir#%F0%9F%87%A9%F0%9F%87%AA%E2%94%8B%40Esmail_a20%E2%94%8B%20%E2%80%A2%20H10
-
-
-vless://62e6b7de-95dd-4f79-ba37-ced98af5744f@psc-2.zdshop.ir:443?mode=auto&security=tls&encryption=none&insecure=0&type=xhttp&allowInsecure=0&sni=2d90c225b3669a8c.VIDaSuNiVErSIty.Ir#%F0%9F%87%AB%F0%9F%87%AE%E2%94%8B%40Esmail_a20%E2%94%8B%20%E2%80%A2%20H11
-
-
-vless://62e6b7de-95dd-4f79-ba37-ced98af5744f@psc-2.zdshop.ir:443?mode=auto&security=tls&encryption=none&insecure=0&type=xhttp&allowInsecure=0&sni=b554edd3bd121a11.sayashops.ir#%F0%9F%87%AC%F0%9F%87%A7%E2%94%8B%40Esmail_a20%E2%94%8B%20%E2%80%A2%20H12
-
-
-vless://62e6b7de-95dd-4f79-ba37-ced98af5744f@psc-3.zdshop.ir:443?mode=auto&security=tls&encryption=none&insecure=0&type=xhttp&allowInsecure=0&sni=24ad0f2662a71d92.bidacom.ir#%F0%9F%87%A9%F0%9F%87%AA%E2%94%8B%40Esmail_a20%E2%94%8B%20%E2%80%A2%20H13
-
-
-vless://62e6b7de-95dd-4f79-ba37-ced98af5744f@psc-3.zdshop.ir:443?mode=auto&security=tls&encryption=none&insecure=0&type=xhttp&allowInsecure=0&sni=643ab1df5ee030cf.VIDaSuNiVErSIty.Ir#%F0%9F%87%AB%F0%9F%87%AE%E2%94%8B%40Esmail_a20%E2%94%8B%20%E2%80%A2%20H14
-
-
-vless://62e6b7de-95dd-4f79-ba37-ced98af5744f@psc-3.zdshop.ir:443?mode=auto&security=tls&encryption=none&insecure=0&type=xhttp&allowInsecure=0&sni=be28b43c54e0768e.sayashops.ir#%F0%9F%87%AC%F0%9F%87%A7%E2%94%8B%40Esmail_a20%E2%94%8B%20%E2%80%A2%20H15
-
-
-vless://62e6b7de-95dd-4f79-ba37-ced98af5744f@psf-1.zdshop.ir:80?security=none&encryption=none&host=khodroshop.ir&type=ws#%F0%9F%87%A9%F0%9F%87%AA%E2%94%8B%40Esmail_a20%E2%94%8B%20%E2%80%A2%20H16
-
-
-vless://62e6b7de-95dd-4f79-ba37-ced98af5744f@psf-1.zdshop.ir:80?security=none&encryption=none&host=machinemag.ir&type=ws#%F0%9F%87%AB%F0%9F%87%AE%E2%94%8B%40Esmail_a20%E2%94%8B%20%E2%80%A2%20H17
-
-
-vless://62e6b7de-95dd-4f79-ba37-ced98af5744f@psf-2.zdshop.ir:80?security=none&encryption=none&host=khodroshop.ir&type=ws#%F0%9F%87%A9%F0%9F%87%AA%E2%94%8B%40Esmail_a20%E2%94%8B%20%E2%80%A2%20H18
-
-
-vless://62e6b7de-95dd-4f79-ba37-ced98af5744f@psf-2.zdshop.ir:80?security=none&encryption=none&host=machinemag.ir&type=ws#%F0%9F%87%AB%F0%9F%87%AE%E2%94%8B%40Esmail_a20%E2%94%8B%20%E2%80%A2%20H19
-
-
-vless://62e6b7de-95dd-4f79-ba37-ced98af5744f@psf-3.zdshop.ir:80?security=none&encryption=none&host=khodroshop.ir&type=ws#%F0%9F%87%A9%F0%9F%87%AA%E2%94%8B%40Esmail_a20%E2%94%8B%20%E2%80%A2%20H20
-
-
-vless://62e6b7de-95dd-4f79-ba37-ced98af5744f@psf-3.zdshop.ir:80?security=none&encryption=none&host=machinemag.ir&type=ws#%F0%9F%87%AB%F0%9F%87%AE%E2%94%8B%40Esmail_a20%E2%94%8B%20%E2%80%A2%20H21
+vless://f010ed08-1926-46f6-adb1-9192e4f2f553@2f115bbe5406dd7c.RaVeNlO.iR:1310?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#%F0%9F%92%AB%20GR1%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%7C%20%D9%87%D9%85%D9%87%20%D9%86%D8%AA%20%D9%87%D8%A7
+vless://f010ed08-1926-46f6-adb1-9192e4f2f553@b14987f772f0200c.B1DoWNlOAd.iR:1310?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#%F0%9F%92%AB%20NL1%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20%7C%20%D9%87%D9%85%D9%87%20%D9%86%D8%AA%20%D9%87%D8%A7
+vless://f010ed08-1926-46f6-adb1-9192e4f2f553@367154ed7e1d2821.iRoNlY4l.iR:1310?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#%F0%9F%92%AB%20TR1%20%7C%20%F0%9F%87%B9%F0%9F%87%B7%20%7C%20%D9%87%D9%85%D9%87%20%D9%86%D8%AA%20%D9%87%D8%A7
+vless://f010ed08-1926-46f6-adb1-9192e4f2f553@af3326c22b591ff0.HEleXv.Ir:1310?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#%F0%9F%92%AB%20US1%20%7C%20%F0%9F%87%BA%F0%9F%87%B8%20%7C%20%D9%87%D9%85%D9%87%20%D9%86%D8%AA%20%D9%87%D8%A7
+vless://f010ed08-1926-46f6-adb1-9192e4f2f553@grns2.RaVeNlO.iR:1310?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#%F0%9F%92%AB%20GR2%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%7C%20%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B3%D9%84%20%7C%20%D8%B1%D8%A7%DB%8C%D8%AA%D9%84
+vless://f010ed08-1926-46f6-adb1-9192e4f2f553@nlns1.B1DoWNlOAd.iR:1310?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#%F0%9F%92%AB%20NL2%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20%7C%20%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B3%D9%84%20%7C%20%D8%B1%D8%A7%DB%8C%D8%AA%D9%84
+vless://f010ed08-1926-46f6-adb1-9192e4f2f553@psc-1.zdshop.ir:443?encryption=none&security=tls&type=xhttp&headerType=none&mode=auto&sni=3f40ca20b81906e4.bidacom.ir#%F0%9F%92%AB%20GR3%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%7C%20%D9%87%D9%85%D8%B1%D8%A7%D9%87%20%D8%A7%D9%88%D9%84%20%D9%88%DB%8C%DA%98%D9%87
+vless://f010ed08-1926-46f6-adb1-9192e4f2f553@psc-1.zdshop.ir:443?encryption=none&security=tls&type=xhttp&headerType=none&mode=auto&sni=a9800d1fcad56cec.VIDaSuNiVErSIty.Ir#%F0%9F%92%AB%20FI3%20%7C%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%D9%87%D9%85%D8%B1%D8%A7%D9%87%20%D8%A7%D9%88%D9%84%20%D9%88%DB%8C%DA%98%D9%87
+vless://f010ed08-1926-46f6-adb1-9192e4f2f553@psc-1.zdshop.ir:443?encryption=none&security=tls&type=xhttp&headerType=none&mode=auto&sni=c8ce382484f0805b.sayashops.ir#%F0%9F%92%AB%20EN2%20%7C%20%F0%9F%87%AC%F0%9F%87%A7%20%7C%20%D9%87%D9%85%D8%B1%D8%A7%D9%87%20%D8%A7%D9%88%D9%84%20%D9%88%DB%8C%DA%98%D9%87
+vless://f010ed08-1926-46f6-adb1-9192e4f2f553@psc-2.zdshop.ir:443?encryption=none&security=tls&type=xhttp&headerType=none&mode=auto&sni=c70e9a8f190cf3eb.bidacom.ir#%F0%9F%92%AB%20GR4%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%7C%20%D9%87%D9%85%D8%B1%D8%A7%D9%87%20%D8%A7%D9%88%D9%84%20%D9%88%DB%8C%DA%98%D9%87%202
+vless://f010ed08-1926-46f6-adb1-9192e4f2f553@psc-2.zdshop.ir:443?encryption=none&security=tls&type=xhttp&headerType=none&mode=auto&sni=d0d5be3a2d2b16e4.VIDaSuNiVErSIty.Ir#%F0%9F%92%AB%20FI4%20%7C%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%D9%87%D9%85%D8%B1%D8%A7%D9%87%20%D8%A7%D9%88%D9%84%20%D9%88%DB%8C%DA%98%D9%87%202
+vless://f010ed08-1926-46f6-adb1-9192e4f2f553@psc-2.zdshop.ir:443?encryption=none&security=tls&type=xhttp&headerType=none&mode=auto&sni=a90a08f23ea98081.sayashops.ir#%F0%9F%92%AB%20EN2%20%7C%20%F0%9F%87%AC%F0%9F%87%A7%20%7C%20%D9%87%D9%85%D8%B1%D8%A7%D9%87%20%D8%A7%D9%88%D9%84%20%D9%88%DB%8C%DA%98%D9%87%202
+vless://f010ed08-1926-46f6-adb1-9192e4f2f553@psc-3.zdshop.ir:443?encryption=none&security=tls&type=xhttp&headerType=none&mode=auto&sni=0281137d1e22c093.bidacom.ir#%F0%9F%92%AB%20GR5%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%7C%20%D9%87%D9%85%D8%B1%D8%A7%D9%87%20%D8%A7%D9%88%D9%84%20%D9%88%DB%8C%DA%98%D9%87%203
+vless://f010ed08-1926-46f6-adb1-9192e4f2f553@psc-3.zdshop.ir:443?encryption=none&security=tls&type=xhttp&headerType=none&mode=auto&sni=87fbaf35769fa58f.VIDaSuNiVErSIty.Ir#%F0%9F%92%AB%20FI5%20%7C%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%D9%87%D9%85%D8%B1%D8%A7%D9%87%20%D8%A7%D9%88%D9%84%20%D9%88%DB%8C%DA%98%D9%87%203
+vless://f010ed08-1926-46f6-adb1-9192e4f2f553@psc-3.zdshop.ir:443?encryption=none&security=tls&type=xhttp&headerType=none&mode=auto&sni=e4dee9c1c175adbd.sayashops.ir#%F0%9F%92%AB%20EN2%20%7C%20%F0%9F%87%AC%F0%9F%87%A7%20%7C%20%D9%87%D9%85%D8%B1%D8%A7%D9%87%20%D8%A7%D9%88%D9%84%20%D9%88%DB%8C%DA%98%D9%87%203
+vless://f010ed08-1926-46f6-adb1-9192e4f2f553@psf-1.zdshop.ir:80?encryption=none&security=none&type=ws&headerType=none&host=khodroshop.ir#%F0%9F%92%AB%20GR6%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%7C%20%D9%87%D9%85%D8%B1%D8%A7%D9%87%20%D8%A7%D9%88%D9%84
+vless://f010ed08-1926-46f6-adb1-9192e4f2f553@psf-1.zdshop.ir:80?encryption=none&security=none&type=ws&headerType=none&host=machinemag.ir#%F0%9F%92%AB%20FI6%20%7C%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%D9%87%D9%85%D8%B1%D8%A7%D9%87%20%D8%A7%D9%88%D9%84
+vless://f010ed08-1926-46f6-adb1-9192e4f2f553@psf-2.zdshop.ir:80?encryption=none&security=none&type=ws&headerType=none&host=khodroshop.ir#%F0%9F%92%AB%20GR7%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%7C%20%D9%87%D9%85%D8%B1%D8%A7%D9%87%20%D8%A7%D9%88%D9%84
+vless://f010ed08-1926-46f6-adb1-9192e4f2f553@psf-2.zdshop.ir:80?encryption=none&security=none&type=ws&headerType=none&host=machinemag.ir#%F0%9F%92%AB%20FI7%20%7C%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%D9%87%D9%85%D8%B1%D8%A7%D9%87%20%D8%A7%D9%88%D9%84
+vless://f010ed08-1926-46f6-adb1-9192e4f2f553@psf-3.zdshop.ir:80?encryption=none&security=none&type=ws&headerType=none&host=khodroshop.ir#%F0%9F%92%AB%20GR8%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%7C%20%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B3%D9%84
+vless://f010ed08-1926-46f6-adb1-9192e4f2f553@psf-3.zdshop.ir:80?encryption=none&security=none&type=ws&headerType=none&host=machinemag.ir#%F0%9F%92%AB%20FI8%20%7C%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B3%D9%84
